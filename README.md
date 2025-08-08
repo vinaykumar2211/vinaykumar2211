@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinaykumar
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning java fullstack
 - 💞️ I’m looking to collaborate on LinkedIn 
 - 📫 How to reach me vinaykumarpasupuleti257@gmail.com
 - 😄 Pronouns: he/him
